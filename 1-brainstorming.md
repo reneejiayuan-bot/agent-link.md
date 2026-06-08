@@ -1,4 +1,4 @@
-tet### Output A — A scoping document
+### Output A — A scoping document
 
 **1. What is this agent?** A general-purpose cross-cultural negotiation advisor that helps any professional prepare for, navigate, and recover from negotiations across any cultural axis, by applying negotiation methodology and cultural intelligence frameworks to the user's specific situation.
 
