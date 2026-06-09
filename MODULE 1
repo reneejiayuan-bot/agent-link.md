@@ -1,15 +1,4 @@
 # MODULE I
-# Cross-Cultural Negotiation 2026 — Student Project
-
-> **Course:** Cross-Cultural Negotiation
-> **Instructor:** Yadvinder S. Rana
-> **Language:** English
-
-## What you build
-
-A **general-purpose AI agent** for cross-cultural negotiation — deployed as a Claude Project or a ChatGPT Project — that can support a user negotiating across *any* cultural axis covered in this course. The agent is general; the case you test it on is yours.
-
-## How you build it
 ##01_hofstede.md
 ##02_hall.md
 ├── 03_trompenaars.md
