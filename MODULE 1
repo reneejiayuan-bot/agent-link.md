@@ -1,7 +1,6 @@
-MODULE I
-│
-├── 01_hofstede.md
-├── 02_hall.md
+# MODULE I
+##01_hofstede.md
+##02_hall.md
 ├── 03_trompenaars.md
 ├── 04_schwartz.md
 ├── 05_cultural_quotient.md
