@@ -1,1 +1,10 @@
-
+MODULE I
+│
+├── 01_hofstede.md
+├── 02_hall.md
+├── 03_trompenaars.md
+├── 04_schwartz.md
+├── 05_cultural_quotient.md
+├── 06_dynamic_culture_yinyang.md
+│
+└── 07_country_profiles.md
